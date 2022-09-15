@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Gotu&family=Nunito&display=swap");
+* {
+  background-color: #fff1f2;
+  font-family: "Nunito", sans-serif;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+#heading {
+  background-color: ;
+}
+#input {
+  padding: 0.5rem;
+  border-radius: 1rem;
+  border: 2px solid black;
+  background-color: #fff;
+}
+#emoji {
+  padding: 1rem;
+}
+span {
+  display: inline-block;
+  font-size: 1.5rem;
+  margin: 0.5rem;
+}
